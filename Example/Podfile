@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JWSSDK_Example' do
+  pod 'JWSSDK', :path => '../'
+
+  target 'JWSSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
