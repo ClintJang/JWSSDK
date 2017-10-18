@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/ClintJang/JWSSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ClintJang' => '1700433@partner.skcc.com' }
+  s.author           = { 'ClintJang' => 'jang.wangsu@gmail.com' }
   s.source           = { :git => 'https://github.com/ClintJang/JWSSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

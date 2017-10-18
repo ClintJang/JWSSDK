@@ -22,7 +22,7 @@ pod 'JWSSDK'
 
 ## Author
 
-ClintJang, 1700433@partner.skcc.com
+ClintJang, jang.wangsu@gmail.com
 
 ## License
 

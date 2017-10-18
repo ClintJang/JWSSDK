@@ -1,0 +1,6 @@
+framework module Pods_JWSSDK_Tests {
+  umbrella header "Pods-JWSSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
